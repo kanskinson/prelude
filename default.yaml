@@ -4,7 +4,7 @@
 config_version: '0.40'
 
 schema_list:
-  - schema: luna_pinyin
+  - schema: pinyin
   - schema: bopomofo
   - schema: cangjie5
 
