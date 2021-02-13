@@ -290,7 +290,7 @@ preset_color_schemes:
     hilited_candidate_back_color: 0x394bdd
 
   brisk:
-    name: "輕盈／Brisk"
+    name: "Brisk"
     author: "skoj <skoj@qq.com>"
     text_color: 0x2238dc
     back_color: 0xffffff
